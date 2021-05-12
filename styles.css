@@ -1,0 +1,27 @@
+h1{
+color: black;
+font-family:  Arial, sans-serif;
+font-style: sans-serif;
+/* position: fixed;
+top: 0;
+width: 100%; */
+}
+label{
+    display: inline-block;
+    width: 230px;
+    text-align: left;
+}
+body{
+    /* background-color: gray; */
+    /* background-image: url("PHARNA.jpg"); */
+    background-image: linear-gradient(to right, rgba(0, 81, 255, 0.164), rgba(0, 68, 255, 0.589));
+    background-size: 100% 100%;
+    
+}
+
+/* b{
+    color: lightcoral;
+}
+h4{
+    color: lightcoral;
+} */
